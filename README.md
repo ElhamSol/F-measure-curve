@@ -11,7 +11,6 @@ This is an imbalanced data classification problem.
 ## F-measre curve
 I measure the performance in the F-measure space. This space allows us to visualize the global performance of the classifier over a range of decision thresholds, under different imbalance levels and the given preference between the classes.
 
-
-- <img src="https://latex.codecogs.com/gif.latex? F_\alpha = \frac{\mbox{TPR}/\alpha}{1/\alpha + \mbox{FPR}/P(+)+\mbox{TPR}-\mbox{FPR}-1} " />
+https://latex.codecogs.com/gif.latex?F_\alpha&space;=&space;\frac{\mbox{TPR}/\alpha}{1/\alpha&space;&plus;&space;\mbox{FPR}/P(&plus;)&plus;\mbox{TPR}-\mbox{FPR}-1}
 
 For more information refer to the paper: "F-Measure Curves: A Tool to Visualize Classifier Performance Under Imbalance": https://www.sciencedirect.com/science/article/abs/pii/S0031320319304479
