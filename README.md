@@ -11,6 +11,6 @@ This is an imbalanced data classification problem.
 ## F-measre curve
 I measure the performance in the F-measure space. This space allows us to visualize the global performance of the classifier over a range of decision thresholds, under different imbalance levels and the given preference between the classes.
 
-![equation](http://latex.codecogs.com/gif.latex? F_%5Calpha%20%3D%20%5Cfrac%7B%5Cmbox%7BTPR%7D/%5Calpha%7D%7B1/%5Calpha%20&plus;%20%5Cmbox%7BFPR%7D/P%28&plus;%29&plus;%5Cmbox%7BTPR%7D-%5Cmbox%7BFPR%7D-1%7D
+![equation](http://latex.codecogs.com/gif.latex?F_%5Calpha%20%3D%20%5Cfrac%7B%5Cmbox%7BTPR%7D/%5Calpha%7D%7B1/%5Calpha%20&plus;%20%5Cmbox%7BFPR%7D/P%28&plus;%29&plus;%5Cmbox%7BTPR%7D-%5Cmbox%7BFPR%7D-1%7D)
 
 For more information refer to the paper: "F-Measure Curves: A Tool to Visualize Classifier Performance Under Imbalance": https://www.sciencedirect.com/science/article/abs/pii/S0031320319304479
